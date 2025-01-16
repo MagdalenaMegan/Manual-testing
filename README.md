@@ -1,4 +1,4 @@
-# Manual testing test
+# Manual testing
 
 Test cases project.
 
